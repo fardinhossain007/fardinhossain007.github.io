@@ -63,11 +63,12 @@ export default function Hero() {
         {/* CTA Button */}
         <Button
           size="lg"
-          className="bg-[#1e3a8a] text-white hover:bg-[#1e3a8a]/90 transition-all duration-300"
+          variant="outline"
+          className="border-2 border-primary bg-transparent text-primary hover:bg-primary/10 transition-all duration-300 rounded-xl px-8 py-6 text-lg font-medium"
           onClick={() => window.location.href = "mailto:fardintonu@gmail.com"}
         >
-          <Mail className="mr-2 h-5 w-5" />
-          Let's talk
+          <Mail className="mr-3 h-5 w-5" />
+          Say hi!
         </Button>
       </div>
     </section>

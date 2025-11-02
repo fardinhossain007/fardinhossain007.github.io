@@ -4,7 +4,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-fardinhossain007-blue )](https://github.com/fardinhossain007 )
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue )](https://www.linkedin.com/in/fardin-hossain-tanmoy )
 
-![Portfolio Preview](screenshot.png)
+<img width="1493" height="818" alt="Screenshot 2025-11-02 at 1 57 02 AM" src="https://github.com/user-attachments/assets/65a6d48b-76d1-4758-81e7-3433f8c9efb5" />
 
 ## 🌐 Live Website
 

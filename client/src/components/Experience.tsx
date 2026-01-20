@@ -15,8 +15,7 @@ const experiences: ExperienceItem[] = [
     period: "JANUARY 2026 – PRESENT",
     location: "Dhaka, Bangladesh",
     responsibilities: [
-      "Built Python automation scripts using Tenable.sc API to extract and process vulnerability data, reducing manual analysis time by 50% and enabling same-day risk assessments for the security team.",
-      "Designed Power BI dashboards tracking vulnerability trends across 500+ assets by severity and remediation status, providing executive visibility into high-risk security gaps and improving patch deployment prioritization.",
+      "•	Converted ~60 undergraduate semester maps from unstructured documents into structured Excel datasets and visualized course sequences and prerequisite/corequisite relationships using Python (pandas, matplotlib).",
     ],
   },
   {

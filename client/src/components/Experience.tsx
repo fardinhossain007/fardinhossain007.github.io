@@ -15,7 +15,7 @@ const experiences: ExperienceItem[] = [
     period: "JANUARY 2026 – PRESENT",
     location: "Dhaka, Bangladesh",
     responsibilities: [
-      "•	Converted ~60 undergraduate semester maps from unstructured documents into structured Excel datasets and visualized course sequences and prerequisite/corequisite relationships using Python (pandas, matplotlib).",
+      "Converted ~60 undergraduate semester maps from unstructured documents into structured Excel datasets and visualized course sequences and prerequisite/corequisite relationships using Python (pandas, matplotlib).",
     ],
   },
   {

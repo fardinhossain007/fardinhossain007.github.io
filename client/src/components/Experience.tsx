@@ -27,7 +27,7 @@ const experiences: ExperienceItem[] = [
     responsibilities: [
       "Deployed and managed Microsoft Entra ID and Intune MDM across 200+ endpoints in collaboration with IT team, standardizing security policies across 3 office locations and reducing unauthorized access incidents by 40%.",
       "Provided technical support for email configuration, hardware provisioning, and software troubleshooting for 200+ employees, maintaining 95%+ uptime and ensuring compliance with corporate IT policies.",
-      "Automated IT asset management by designing a MySQL relational database with schemas linking assets to departments and users, and building an IT-facing interface to add, update, and retire assets; used Navicat for schema management and data validation, replacing manual spreadsheet tracking.,
+      "Automated IT asset management by designing a MySQL relational database with schemas linking assets to departments and users, and building an IT-facing interface to add, update, and retire assets; used Navicat for schema management and data validation, replacing manual spreadsheet tracking.",
     ],
   },
   {

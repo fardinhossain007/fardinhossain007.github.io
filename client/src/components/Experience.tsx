@@ -10,15 +10,24 @@ interface ExperienceItem {
 
 const experiences: ExperienceItem[] = [
   {
+    company: "New York Institute of Technology",
+    role: "Student Worker - Institutional Research",
+    period: "JANUARY 2026 – PRESENT",
+    location: "Dhaka, Bangladesh",
+    responsibilities: [
+      "Built Python automation scripts using Tenable.sc API to extract and process vulnerability data, reducing manual analysis time by 50% and enabling same-day risk assessments for the security team.",
+      "Designed Power BI dashboards tracking vulnerability trends across 500+ assets by severity and remediation status, providing executive visibility into high-risk security gaps and improving patch deployment prioritization.",
+    ],
+  },
+  {
     company: "Air Alliance Ltd.",
     role: "Management Trainee – Information Technology",
     period: "AUGUST 2024 – AUGUST 2025",
     location: "Dhaka, Bangladesh",
     responsibilities: [
-      "Developed automated Python and SQL pipelines integrated with SQL Server and Navicat to eliminate 10+ hours of weekly manual reporting, reducing report generation time by 60%, and data entry errors by 50% for sales and logistics performance reviews.",
       "Deployed and managed Microsoft Entra ID and Intune MDM across 200+ endpoints in collaboration with IT team, standardizing security policies across 3 office locations and reducing unauthorized access incidents by 40%.",
       "Provided technical support for email configuration, hardware provisioning, and software troubleshooting for 200+ employees, maintaining 95%+ uptime and ensuring compliance with corporate IT policies.",
-      "Migrated legacy reporting system from manual Excel workflows to automated SQL-based solution, improving data accuracy and enabling real-time analytics for operations team.",
+      "Automated IT asset management by designing a MySQL relational database with schemas linking assets to departments and users, and building an IT-facing interface to add, update, and retire assets; used Navicat for schema management and data validation, replacing manual spreadsheet tracking.,
     ],
   },
   {
